@@ -2,6 +2,14 @@
   "name": "homework",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://github.com/Remsha-Illia/homework-express#readme",
+  "bugs": {
+    "url": "https://github.com/Remsha-Illia/homework-express/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Remsha-Illia/homework-express.git"
+  },
   "license": "ISC",
   "author": "",
   "type": "module",
@@ -11,6 +19,7 @@
   },
   "dependencies": {
     "express": "^5.2.1",
-    "moment": "^2.30.1"
+    "moment": "^2.30.1",
+    "uptime": "^0.0.3"
   }
 }
